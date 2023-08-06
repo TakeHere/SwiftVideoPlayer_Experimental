@@ -3,7 +3,7 @@
 [❗]: I basically got an idea, videos are just a succession of images, so if I can display images fast, it's basically a video\
 [⚠️]: This experiment is basically that: Display a video by successively showing images (this is only an experiment)
 
-[❓]: The inner workings is pretty simple => Using FFMPG, it cuts the video and save all it's frame in a folder where it will be later read and displayed to the user in a fast and successive way
+[❓]: The inner workings is pretty simple 🠪 Using FFMPG, it cuts the video and save all it's frame in a folder where it will be later read and displayed to the user in a fast and successive way
 
 
 
